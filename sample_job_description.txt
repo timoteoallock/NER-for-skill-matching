@@ -1,0 +1,24 @@
+
+ I lead numerous teams in projects related to Data Science and Machine Learning, these include Hackathons and competitions that resulted in my team presenting our work at scientific conferences. I was also involved in helping a startup improve their business model via automation and data driven insights
+
+
+
+simd, gpu and how the data structures are implemented : static dynamic array and so on. 
+
+
+ Reported on a weekly basis to a non-technical audience (top management of the Data and Business divisions)
+
+
+I was motivated to apply for this internship because I have a strong passion and interest for the work done at If Insurance, in particular for how data is used to help customers and provide them with the best product, especially in times where data is constantly evolving and situations are changing very quickly. I found this role to be very much in line with my skills in math, data analysis, data science, and machine learning that I developed during my university studies and previous work experiences, and the chance to analyze real-world data and work on projects that are impactful really aligns with my values and career aspirations. For these reasons, I believe that this program represents a unique opportunity to grow professionally, apply my technical and business skills and learn from the best in their fields. 
+
+
+
+Hi Matěj, hope you're doing well.
+
+I just wanted to ask for some clarification. Do you have a rough estimate of when the ReOrg will be completed and when HR will be able to provide feedback? I reached out to them after the two weeks had passed, and they mentioned there would be an update by the end of last week, but I haven’t heard back yet.
+
+Also, just to confirm — will the feedback I receive be the final decision on whether I have been accepted for the internship? HR had mentioned that my interview in January was the last step, but I remember you mentioning a ‘presentation round’ when you joined Moody’s. I was wondering if that applies only to full-time roles and that maybe the process was different for internships.
+
+Thanks a lot for your time, and sorry for disturbing.
+
+Best,
