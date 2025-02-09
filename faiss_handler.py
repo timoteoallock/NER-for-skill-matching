@@ -44,8 +44,6 @@ def compute_skill_score(cv_skills, job_skills, nlp, threshold=0.6, k=2):
     dimension = nlp.vocab.vectors_length  
     faiss_index = faiss.IndexFlatIP(dimension)  
     faiss_index.add(job_embeddings)
-
-    k = 1
     distances, indices = faiss_index.search(cv_embeddings, k)
 
     # Threshold for similarity (We found 0.5 to be a good threshold)
